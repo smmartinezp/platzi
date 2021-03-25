@@ -1,2 +1,2 @@
-# platzi
+# platzi-conf-merch
 platzi curso
